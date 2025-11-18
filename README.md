@@ -1,3 +1,3 @@
-# aind-capsule-template
+# visual-behavior-neuropixels-tutorial
 
-Basic structure of a capsule to be customized as needed.
+Code tutorial showing how to access data from the Visual Behavior Neuropixels project. 
